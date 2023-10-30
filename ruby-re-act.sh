@@ -95,12 +95,8 @@ end
       Runs a calculation and returns the number - uses Ruby so be sure to use floating point syntax if necessary
 
       wikipedia: (NOT IMPLEMENTED YET)
-      e.g. wikipedia: Django
+      e.g. wikipedia: Ruby On Rails
       Returns a summary from searching Wikipedia
-
-      simon_blog_search: (NOT IMPLEMENTED YET)
-      e.g. simon_blog_search: Django
-      Search Simon's blog for that term
 
       Always look things up on Wikipedia if you have the opportunity to do so.
 
