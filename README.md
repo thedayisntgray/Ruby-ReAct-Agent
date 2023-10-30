@@ -13,6 +13,11 @@ Hope this sample code benefits someone in their own exploration of AI Agents in 
 
 ```chmod +x ruby-re-act.sh```
 
+#### Create a file named .env copy over the contents of .env.example. Then replace with your OpenAI key.
+
+```touch .env && cat .env.example > .env```
+
+
 #### To execute the file type:
 
 ```./ruby-re-act.sh```
