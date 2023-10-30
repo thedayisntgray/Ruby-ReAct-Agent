@@ -9,6 +9,8 @@ To aide me in this project I closely followed and essentially ported over some p
 
 Hope this sample code benefits someone in their own exploration of AI Agents in Ruby.
 
+Currently the only tool implemented is a calculator.
+
 #### To Run the file on mac make it an executable by running:
 
 ```chmod +x ruby-re-act.sh```
@@ -21,4 +23,8 @@ Hope this sample code benefits someone in their own exploration of AI Agents in 
 #### To execute the file type:
 
 ```./ruby-re-act.sh```
+
+#### Example terminal session:
+
+<img width="598" alt="Screenshot 2023-10-30 at 1 29 37 AM" src="https://github.com/thedayisntgray/Ruby-ReAct-Agent/assets/4859128/8f2eff1d-5876-427d-8b55-c20dc8102d35">
 
